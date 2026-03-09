@@ -1,5 +1,5 @@
 # <p align="center">Mahmoud Alkhawalda</p>
-<p align="center"><strong>AI Founder | Software Engineer | Tech Leader</strong></p>
+<p align="center"><strong>Computer science | Artificial intelligence engineer |Machine learning | LLM </strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/University-Middle%20East%20University-blue?style=for-the-badge">
@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-High-achieving **Software Engineering** student at **Middle East University** and the Founder of **Care.ai**. My focus is on leveraging Artificial Intelligence and Deep Learning to solve critical healthcare challenges, specifically in early breast cancer detection.
+High-achieving **Computer science** student at **Middle East University** and the Founder of **Care.ai**. My focus is on leveraging Artificial Intelligence and Deep Learning to solve critical healthcare challenges, specifically in early breast cancer detection.
 
 As the **President of the Technology and Digital Transformation Club**, I am passionate about bridging the gap between academic research and scalable, real-world startups.
 
