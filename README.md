@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1000x300/1a1a2e/ffffff?text=MAHMOUD+ALKHAVALDA+%7C+AI+%26+CARE.AI" alt="Mahmoud Banner" width="100%">
+  <img src="https://repository-images.githubusercontent.com/371533374/0e005080-c1e1-11eb-9866-991f62770955" alt="AI Banner" width="100%">
 </p>
 
 # <p align="center">Mahmoud Alkhawalda</p>
