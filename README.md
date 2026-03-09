@@ -1,15 +1,16 @@
 # <p align="center">Mahmoud Alkhawalda</p>
-<p align="center"><strong>Computer science | Artificial intelligence engineer |Machine learning | LLM </strong></p>
+<p align="center"><strong>Computer Science | Artificial Intelligence Engineer | Machine Learning | LLM </strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/University-Middle%20East%20University-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GPA-3.75%20%2F%204.0-gold?style=for-the-badge">
   <img src="https://img.shields.io/badge/Role-CEO%20%26%20Founder%20@%20Care.ai-green?style=for-the-badge">
 </p>
 
 ---
 
 ### 🚀 About Me
-High-achieving **Computer science** student at **Middle East University** and the Founder of **Care.ai**. My focus is on leveraging Artificial Intelligence and Deep Learning to solve critical healthcare challenges, specifically in early breast cancer detection.
+High-achieving **Computer Science** student at **Middle East University** with a **GPA of 3.75/4.0**. As the Founder of **Care.ai**, my focus is on leveraging Artificial Intelligence and Deep Learning to solve critical healthcare challenges, specifically in early breast cancer detection.
 
 As the **President of the Technology and Digital Transformation Club**, I am passionate about bridging the gap between academic research and scalable, real-world startups.
 
