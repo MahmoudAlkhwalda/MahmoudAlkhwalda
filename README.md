@@ -62,6 +62,6 @@ As a leader, I serve as the **President of the Technology and Digital Transforma
 </p>
 
 ### 📫 Get in Touch
-* **LinkedIn:** [Your Profile Link]
+* **LinkedIn:** www.linkedin.com/in/mahmoud-alkhawalda-a82222306
 * **Email:** 202311403@stu.meu.edu.jo
 * **Location:** Amman, Jordan
