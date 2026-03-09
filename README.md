@@ -1,44 +1,53 @@
 <div align="center">
+  <img src="https://via.placeholder.com/800x200/4B2C34/FFFFFF?text=Mahmoud+Alkhawalda" alt="Banner" />
   <h1>Mahmoud Alkhawalda</h1>
-  <p><strong>Computer Science | Artificial Intelligence Engineer | Machine Learning | LLM</strong></p>
+  <p><strong>Computer Science Student | AI & Machine Learning Enthusiast</strong></p>
 </div>
 
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/University-Middle%20East%20University-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GPA-3.75%20%2F%204.0-gold?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Role-CEO%20%26%20Founder%20@%20Care.ai-green?style=for-the-badge">
+  <strong>Building Intelligent Systems & Scalable AI Solutions.</strong>
 </p>
 
 <p align="center">
-  <strong>Building Intelligent Systems & Secure AI Architectures.</strong>
+  <strong>Computer Science Student (GPA: 3.75)</strong>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mahmoud-alkhawalda-a82222306"><img src="https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/YOUR_PROFILE"><img src="https://img.shields.io/badge/LINKEDIN-PROFILE-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/MahmoudAlkhawalda"><img src="https://img.shields.io/badge/GITHUB-PROFILE-black?style=for-the-badge&logo=github" /></a>
   <a href="mailto:202311403@stu.meu.edu.jo"><img src="https://img.shields.io/badge/CONTACT-ME-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
 
 ### 📝 About Me
-I am a high-achieving **Computer Science** student at **Middle East University** (GPA: **3.75/4.0**). My core expertise lies in **Artificial Intelligence**, with a specialized focus on **Deep Learning (CNNs)**, **NLP**, and **Large Language Models (LLMs)**. I thrive on building intelligent systems ranging from computer vision ensembles to generative AI frameworks.
+High-achieving **Computer Science** student at **Middle East University** with a focus on **Artificial Intelligence**. My core expertise lies in developing high-accuracy diagnostic systems using **Deep Learning (CNNs)** and **NLP**.
 
-While my primary drive is AI, I back my innovations with a robust understanding of **Network Infrastructure**, holding professional certifications (**CCNP, CCNA, MCSA**) from the **Public Security Directorate Academy**. This allows me to design AI solutions that are not only theoretically sound but also architecturally secure and scalable.
+I am also a certified specialist in **Network Engineering (CCNP, CCNA, MCSA)** from the **Public Security Directorate Academy**, ensuring that the AI solutions I build are integrated into secure and robust infrastructures.
 
-As a leader, I serve as the **President of the Technology Club** and the **Secretary for IEEE RAS**, bridging the gap between AI research and real-world entrepreneurship.
+Currently leading the **Technology and Digital Transformation Club** to foster innovation in the regional tech ecosystem.
+
+---
+
+### 🎯 Focus Areas
+* 🧠 **Artificial Intelligence** — CNNs, NLP, LLMs, and Generative AI.
+* 🌐 **Infrastructure** — Network Security, Routing & Switching (PSD Trained).
+* 🚀 **Entrepreneurship** — Bridging the gap between AI research and real-world startups.
 
 ---
 
 ### 🛠️ Tech Stack & Arsenal
 
-| 🤖 AI & Data Science | 🛡️ Infrastructure & Tools |
+| 🤖 AI & Machine Learning | 🛡️ Infrastructure & Tools |
 | :--- | :--- |
-| **ML/DL:** Python, TensorFlow, Keras, Scikit-learn | **Networking:** CCNP, CCNA, Cisco IOS |
-| **Vision/NLP:** CNN, LLMs, OpenCV, NLP | **Systems:** MCSA, Windows Server, Linux |
-| **Data:** NumPy, Pandas, Matplotlib | **DevOps:** Git, GitHub, ROS 2, Arduino |
+| **Languages:** Python, SQL, C++, PHP | **Networking:** Cisco IOS, CCNP, CCNA |
+| **Frameworks:** TensorFlow, Keras, Scikit-learn | **Systems:** MCSA, Windows Server, Linux |
+| **Vision:** OpenCV, CNN Ensembles (VGG, ResNet) | **DevOps:** Git, GitHub, Docker, ROS 2 |
 
 <p align="center">
-  <strong>Web & Architecture:</strong> Flask | PHP | SQL Server | RESTful APIs | HTML5/CSS3
+  <strong>Databases & Architecture:</strong> SQL Server | T-SQL | Flask | OOP | Data Structures
 </p>
 
 ---
@@ -47,16 +56,15 @@ As a leader, I serve as the **President of the Technology Club** and the **Secre
 
 | Project | Technologies | Description |
 | :--- | :--- | :--- |
-| **🧬 Care.ai** | Python, Flask, CNN | Hybrid breast cancer diagnostic system with **98.25% accuracy**. |
-| **🏗️ OQD Platform** | Python, Backend | Specialized platform for streamlining contract and legal processes. |
-| **🤖 Robotics/RAS** | ROS 2, Arduino | Automation systems implementation for IEEE RAS projects. |
+| **Care.ai** | Python, Flask, CNN | Hybrid breast cancer diagnostic system with **98.25% accuracy**. |
+| **OQD Platform** | Python, SQL | Specialized platform for contract and legal process automation. |
+| **Robotics/RAS** | ROS 2, Arduino | Implementation of automation systems for IEEE RAS projects. |
 
 ---
 
-### 🏆 Achievements & Leadership
-* **Winner:** Future Health Impact Award for **Care.ai**.
-* **Founder:** Nesma'a b'el Wa'i Health Awareness Initiative.
+### 🏆 Achievements
 * **President:** Technology and Digital Transformation Club @ MEU.
+* **Winner:** Future Health Impact Award for **Care.ai**.
 * **Secretary:** IEEE Robotics and Automation Society (RAS) Chapter.
 
 ---
@@ -65,6 +73,3 @@ As a leader, I serve as the **President of the Technology Club** and the **Secre
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAlkhawalda&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
-
-### 📫 Location
-* 📍 **Amman, Jordan**
