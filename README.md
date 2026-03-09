@@ -8,12 +8,14 @@
 </p>
 
 ---
+
 ### 🚀 About Me
-I am a high-achieving **Computer Science** student at **Middle East University** with a **GPA of 3.75/4.0**. My professional journey is defined by a unique fusion of **Artificial Intelligence** and **Network Infrastructure**.
+I am a driven **Computer Science** student at **Middle East University** with a **GPA of 3.75/4.0**, dedicated to pushing the boundaries of technology and innovation. My expertise is built on a dual foundation of **Advanced AI Research** and **Professional Network Infrastructure**.
 
-As the **Founder of Care.ai**, I am pioneering hybrid diagnostic solutions for early breast cancer detection, leveraging Deep Learning to achieve **98.25% accuracy**. My technical background is further strengthened by intensive training at the **Public Security Directorate (PSD) Academy**, where I earned professional certifications in **CCNP, CCNA, and MCSA**, mastering complex network architectures and system security.
+Beyond my academic excellence, I am a certified specialist in **Network Engineering (CCNP, CCNA, MCSA)**, having undergone rigorous professional training at the **Public Security Directorate (PSD) Academy**. This background allows me to design solutions that are not only intelligent but also secure and robust.
 
-I am a proactive leader, currently serving as the **President of the Technology and Digital Transformation Club** and the **Secretary for IEEE RAS**, dedicated to bridging the gap between advanced research and scalable, real-world innovation.
+As a leader, I actively shape the local tech ecosystem as the **President of the Technology and Digital Transformation Club** and the **Secretary for IEEE RAS**. I am passionate about entrepreneurship and leadership, always seeking to bridge the gap between complex computational theories and high-impact, real-world applications.
+
 ---
 
 ### 🛠 Tech Stack & Arsenal
