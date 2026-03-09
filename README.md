@@ -14,9 +14,9 @@
 ---
 
 ### 🚀 About Me
-I am a high-achieving **Computer Science** student at **Middle East University** (GPA: **3.75/4.0**), deeply passionate about the intersection of advanced computation and human-centric innovation.
+I am a high achieving **Computer Science** student at **Middle East University** (GPA: **3.75/4.0**), deeply passionate about the intersection of advanced computation and human centric innovation.
 
-My core expertise lies in the realm of **Artificial Intelligence**, with a specialized focus on **Deep Learning (CNNs)**, **Natural Language Processing (NLP)**, and the architecture of **Large Language Models (LLMs)**. I thrive on building intelligent systems that can perceive, learn, and reason—ranging from sophisticated computer vision ensembles to generative AI frameworks.
+My core expertise lies in the realm of **Artificial Intelligence**, with a specialized focus on **Deep Learning (CNNs)**, **Natural Language Processing (NLP)**, and the architecture of **Large Language Models (LLMs)**. I thrive on building intelligent systems that can perceive, learn, and reason ranging from sophisticated computer vision ensembles to generative AI frameworks.
 
 While my primary drive is AI, I back my innovations with a robust understanding of **Network Infrastructure and Systems**, holding professional certifications (**CCNP, CCNA, MCSA**) from the **Public Security Directorate Academy**. This dual-lens approach allows me to design AI solutions that are not only theoretically sound but also architecturally secure and scalable.
 
