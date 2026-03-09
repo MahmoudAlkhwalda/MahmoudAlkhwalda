@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://repository-images.githubusercontent.com/371533374/0e005080-c1e1-11eb-9866-991f62770955" alt="AI Banner" width="100%">
+  <img src="Gemini_Generated_Image_q5m6meq5m6meq5m6" alt="AI Banner" width="100%">
 </p>
 
 # <p align="center">Mahmoud Alkhawalda</p>
