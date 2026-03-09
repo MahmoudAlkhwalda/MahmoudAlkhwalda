@@ -2,7 +2,6 @@
   <img src="Banner.png" alt="AI Banner" width="100%">
 </p>
 
-# <p align="center">Mahmoud Alkhawalda</p>
 <p align="center"><strong>Computer Science | Artificial Intelligence Engineer | Machine Learning | LLM </strong></p>
 
 <p align="center">
