@@ -10,11 +10,13 @@
 ---
 
 ### 🚀 About Me
-I am a driven **Computer Science** student at **Middle East University** with a **GPA of 3.75/4.0**, dedicated to pushing the boundaries of technology and innovation. My expertise is built on a dual foundation of **Advanced AI Research** and **Professional Network Infrastructure**.
+I am a high-achieving **Computer Science** student at **Middle East University** (GPA: **3.75/4.0**), deeply passionate about the intersection of advanced computation and human-centric innovation.
 
-Beyond my academic excellence, I am a certified specialist in **Network Engineering (CCNP, CCNA, MCSA)**, having undergone rigorous professional training at the **Public Security Directorate (PSD) Academy**. This background allows me to design solutions that are not only intelligent but also secure and robust.
+My core expertise lies in the realm of **Artificial Intelligence**, with a specialized focus on **Deep Learning (CNNs)**, **Natural Language Processing (NLP)**, and the architecture of **Large Language Models (LLMs)**. I thrive on building intelligent systems that can perceive, learn, and reason—ranging from sophisticated computer vision ensembles to generative AI frameworks.
 
-As a leader, I actively shape the local tech ecosystem as the **President of the Technology and Digital Transformation Club** and the **Secretary for IEEE RAS**. I am passionate about entrepreneurship and leadership, always seeking to bridge the gap between complex computational theories and high-impact, real-world applications.
+While my primary drive is AI, I back my innovations with a robust understanding of **Network Infrastructure and Systems**, holding professional certifications (**CCNP, CCNA, MCSA**) from the **Public Security Directorate Academy**. This dual-lens approach allows me to design AI solutions that are not only theoretically sound but also architecturally secure and scalable.
+
+As a leader, I serve as the **President of the Technology and Digital Transformation Club** and the **Secretary for IEEE RAS**, where I lead initiatives that bridge the gap between complex AI research and high-impact, real-world entrepreneurship..
 
 ---
 
