@@ -8,12 +8,12 @@
 </p>
 
 ---
-
 ### 🚀 About Me
-High-achieving **Computer Science** student at **Middle East University** with a **GPA of 3.75/4.0**. As the Founder of **Care.ai**, my focus is on leveraging Artificial Intelligence and Deep Learning to solve critical healthcare challenges, specifically in early breast cancer detection.
+I am a high-achieving **Computer Science** student at **Middle East University** with a **GPA of 3.75/4.0**. My professional journey is defined by a unique fusion of **Artificial Intelligence** and **Network Infrastructure**.
 
-As the **President of the Technology and Digital Transformation Club**, I am passionate about bridging the gap between academic research and scalable, real-world startups.
+As the **Founder of Care.ai**, I am pioneering hybrid diagnostic solutions for early breast cancer detection, leveraging Deep Learning to achieve **98.25% accuracy**. My technical background is further strengthened by intensive training at the **Public Security Directorate (PSD) Academy**, where I earned professional certifications in **CCNP, CCNA, and MCSA**, mastering complex network architectures and system security.
 
+I am a proactive leader, currently serving as the **President of the Technology and Digital Transformation Club** and the **Secretary for IEEE RAS**, dedicated to bridging the gap between advanced research and scalable, real-world innovation.
 ---
 
 ### 🛠 Tech Stack & Arsenal
