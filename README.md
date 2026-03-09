@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Gemini_Generated_Image_q5m6meq5m6meq5m6.png" alt="AI Banner" width="100%">
+  <img src="Banner.png" alt="AI Banner" width="100%">
 </p>
 
 # <p align="center">Mahmoud Alkhawalda</p>
